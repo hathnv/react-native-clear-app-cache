@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/user/ReactNativeApp/etadi-react/node_modules/react-native-clear-app-cache/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4f3aee08d1a06f11f75d6e36bd3263b4/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/user/ReactNativeApp/etadi-react/node_modules/react-native-clear-app-cache/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4f3aee08d1a06f11f75d6e36bd3263b4/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
